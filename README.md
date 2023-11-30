@@ -1,7 +1,7 @@
 ### Oi! Bem-vindo(a) ao meu GitHub, sou a Tamiris Silva ✌🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamiris-a-silva/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desenvtamiris/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desenvtamirisasilva/?igshid=NzZlODBkYWE4Ng%3D%3D)
 
 ![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=TamirisASilva&show_icons=true&theme=highcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamirisASilva&hide_progress=true&theme=highcontrast)
